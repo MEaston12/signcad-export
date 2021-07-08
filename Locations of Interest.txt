@@ -1,0 +1,15 @@
+Exit File Button
+Win: 1920, 35
+Client: 1912, -16
+
+File Menu
+Win: 46,41
+Client: 38,-10
+
+Export Menu Button
+Win: 102,185
+Client: 94,134
+
+Export to DWG Button
+Win: 364, 188
+Client: 356,137
